@@ -1,0 +1,11 @@
+.follow_user_btn.green {
+    color: green;
+}
+
+.follow_user_btn.orange {
+    color: orange;
+}
+
+.follow_user_btn.green:hover {
+    color: red;
+}
